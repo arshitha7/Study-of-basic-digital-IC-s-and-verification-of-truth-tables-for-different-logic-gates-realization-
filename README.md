@@ -83,5 +83,5 @@ endmodule
 ![Screenshot 2023-11-26 103929 (1)](https://github.com/arshitha7/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/144979143/3dc2b845-7622-468d-828d-a185fbefe1bb)
 
 
-Result:
+## Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
